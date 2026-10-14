@@ -1,45 +1,75 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38,12&height=180&section=header&text=Rizky%20Bayuu&fontSize=42&fontColor=fe428e&fontAlignY=38&desc=Linux%20Enthusiast%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%203D%20Artist&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38,12&height=180&section=header&text=Rizky%20Bayuu&fontSize=42&fontColor=fe428e&fontAlignY=38&desc=Systems%20Technologist%20%E2%80%A2%20Low-Level%20%26%20RE%20%E2%80%A2%20Creative%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header" />
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/rizkybayuu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=FE428E&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Rizky+Bayuu+%F0%9F%91%8B;Linux+Enthusiast+%26+Void+Linux+User+%F0%9F%90%A7;Reverse+Engineering+%26+Low-Level+Explorer+%F0%9F%94%8D;3D+Artist+%26+Creative+Designer+%F0%9F%8E%A8;Curious+mind+exploring+code+under+the+hood+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=FE428E&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Rizky+Bayuu+%F0%9F%91%8B;Systems+Technologist+%26+Void+Linux+User+%F0%9F%90%A7;Low-Level+Development%3A+C%2C+C%2B%2B+%26+Assembly;Reverse+Engineering+with+Ghidra+%26+REA+%F0%9F%94%8D;Procedural+3D+%26+Zero-Dependency+Web+Craft+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Profile Status Badges -->
+  <!-- Profile Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=rizkybayuu&color=fe428e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://rizkybayuu.github.io/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-rizkybayuu.github.io-fe428e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Website" />
+    </a>
     <img src="https://img.shields.io/badge/OS-VOID%20LINUX-478061?style=for-the-badge&logo=linux&logoColor=white" alt="Void Linux" />
-    <img src="https://img.shields.io/badge/FOCUS-REVERSE%20ENGINEERING-fe428e?style=for-the-badge" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=rizkybayuu&color=fe428e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ About Me
+### 💻 System Specifications & Identity
 
 ```c
+/* developer spec: rizkybayuu */
 typedef struct {
-    const char *name;
-    const char *daily_os;
-    const char *interests[3];
-    const char *creative_side;
-    const char *philosophy;
-} Developer;
+    const char *handle;
+    const char *primary_os;
+    const char *core_domains[3];
+    const char *active_stack[4];
+    const char *engineering_creed;
+} DeveloperProfile;
 
-Developer rizky = {
-    .name          = "Rizky Bayuu",
-    .daily_os      = "Void Linux (runit, minimal & blazing fast)",
-    .interests     = { "Reverse Engineering", "Binary Disassembly", "Low-Level Systems" },
-    .creative_side = "3D Artist & Digital Modeler (Blender)",
-    .philosophy    = "Curious mind diving deep into binaries and system internals."
+DeveloperProfile rizky = {
+    .handle            = "rizkybayuu",
+    .primary_os        = "Void Linux (runit, minimal & independent)",
+    .core_domains      = { "Systems & Low-Level", "Binary Reverse Engineering", "Creative Tech & Procedural 3D" },
+    .active_stack      = { "C / C++", "POSIX Shell", "Vanilla Web (No-Framework)", "Blender Geometry Nodes" },
+    .engineering_creed = "Zero bloat. Understanding computers from raw byte to rendered pixel."
 };
 ```
+
+---
+
+### 🚀 Featured Repositories & Engineering Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/rizkybayuu/RizkybyMONITOR">RizkybyMONITOR</a></h3>
+      <p>Real-time system telemetry and resource monitoring suite. Engineered with low-level <b>C++</b>, system <b>Shell</b> hooks, and lightweight web visualization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 <a href="https://rizkybayuu.github.io/">rizkybayuu.github.io</a></h3>
+      <p>Handcrafted, frameworkless interactive portfolio. Built with pure <b>Vanilla HTML5/CSS3/ES6+</b> featuring GPU-accelerated celestial physics and constellation navigation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zero_Framework-fe428e?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,22 +81,35 @@ Developer rizky = {
 
 <br/>
 
-<details open>
-<summary><b>Detailed Tooling & Environment</b></summary>
-<br/>
-
-| Category | Tools & Technologies |
+| Domain | Technologies & Tooling |
 | :--- | :--- |
-| **Operating Systems** | ![Void Linux](https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Reverse Engineering** | ![Ghidra](https://img.shields.io/badge/Ghidra-7B1FA2?style=flat-square&logo=openjdk&logoColor=white) ![REA](https://img.shields.io/badge/REA_Agents-141321?style=flat-square&logo=terminal&logoColor=fe428e) ![GDB](https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white) ![Binary Analysis](https://img.shields.io/badge/Binary_Analysis-fe428e?style=flat-square) |
-| **Creative & 3D** | ![Blender](https://img.shields.io/badge/Blender_3D-E87D0D?style=flat-square&logo=blender&logoColor=white) ![3D Modeling](https://img.shields.io/badge/3D_Modeling-20232A?style=flat-square) |
-
-</details>
+| **Operating Systems & Virtualization** | ![Void Linux](https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=linux&logoColor=white) ![Linux Console](https://img.shields.io/badge/Linux_Console-FCC624?style=flat-square&logo=linux&logoColor=black) ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white) ![VM Deployment](https://img.shields.io/badge/VM_Deployment-141321?style=flat-square&logo=virtualbox&logoColor=white) |
+| **Low-Level & Core Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/x86%2Fx64_Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![POSIX Shell](https://img.shields.io/badge/POSIX_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Reverse Engineering & Security** | ![Ghidra](https://img.shields.io/badge/Ghidra_SRE-7B1FA2?style=flat-square&logo=openjdk&logoColor=white) ![REA Agents](https://img.shields.io/badge/REA_Agents-141321?style=flat-square&logo=terminal&logoColor=fe428e) ![GDB](https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white) ![Binary Analysis](https://img.shields.io/badge/Binary_Analysis-fe428e?style=flat-square) |
+| **Creative Tech & Web Craft** | ![Blender](https://img.shields.io/badge/Blender_Geometry_Nodes-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Vanilla JS](https://img.shields.io/badge/Vanilla_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas Physics](https://img.shields.io/badge/Canvas_Physics-00D8FF?style=flat-square) |
+| **Developer Workflow & AI** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![AI Engineering](https://img.shields.io/badge/AI_Agent_Engineering-7fd1ff?style=flat-square&logo=openai&logoColor=black) |
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 🌐 Connect & Tech Channels
+
+<p align="center">
+  <a href="https://rizkybayuu.github.io/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-rizkybayuu.github.io-fe428e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-lamp__y-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/rizkyby.art/">
+    <img src="https://img.shields.io/badge/3D_Art-@rizkyby.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 Code & Language Breakdown
 
 <div align="center">
 
@@ -75,7 +118,7 @@ Developer rizky = {
   
   <br/><br/>
 
-  <!-- Stats Card (Radical Theme - clean filtered metrics) -->
+  <!-- Stats Card (Radical Theme - filtered) -->
   <img src="https://github-readme-stats.vercel.app/api?username=rizkybayuu&show_icons=true&theme=radical&hide_border=false&hide_rank=true&hide=issues,prs,contribs" alt="Rizky's GitHub Stats" />
 
 </div>
