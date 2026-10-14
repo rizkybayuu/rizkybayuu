@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Native Cyber Header Banner (Hosted in Repo) -->
+  <!-- Native Cyber Header Banner -->
   <a href="https://rizkybayuu.github.io/">
     <img src="https://raw.githubusercontent.com/rizkybayuu/rizkybayuu/main/assets/header.svg" width="100%" alt="Rizky Bayuu Header" />
   </a>
@@ -14,7 +14,7 @@
 
   <br/><br/>
 
-  <!-- Profile Badges (High-Reliability Shields) -->
+  <!-- Profile Badges -->
   <p>
     <a href="https://rizkybayuu.github.io/">
       <img src="https://img.shields.io/badge/PORTFOLIO-rizkybayuu.github.io-fe428e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Website" />
@@ -56,28 +56,30 @@ DeveloperProfile rizky = {
 
 ### 🚀 Featured Repositories & Engineering Highlights
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/rizkybayuu/RizkybyMONITOR">RizkybyMONITOR</a></h3>
-      <p>Real-time system telemetry and resource monitoring suite. Engineered with low-level <b>C++</b>, system <b>Shell</b> hooks, and lightweight web visualization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 <a href="https://rizkybayuu.github.io/">rizkybayuu.github.io</a></h3>
-      <p>Handcrafted, frameworkless interactive portfolio. Built with pure <b>Vanilla HTML5/CSS3/ES6+</b> featuring GPU-accelerated celestial physics and constellation navigation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zero_Framework-fe428e?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <h3>🖥️ <a href="https://github.com/rizkybayuu/RizkybyMONITOR">RizkybyMONITOR</a></h3>
+        <p>Real-time system telemetry &amp; resource monitoring suite.<br/>Engineered with low-level <b>C++</b>, Linux <b>Shell</b>, and web UI.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/POSIX_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <h3>🌌 <a href="https://rizkybayuu.github.io/">rizkybayuu.github.io</a></h3>
+        <p>Handcrafted, frameworkless interactive portfolio.<br/>Built with pure <b>Vanilla JS / CSS3</b> and GPU celestial physics.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/Zero_Framework-fe428e?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -89,13 +91,63 @@ DeveloperProfile rizky = {
 
 <br/>
 
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **Operating Systems & Virtualization** | ![Void Linux](https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=linux&logoColor=white) ![Linux Console](https://img.shields.io/badge/Linux_Console-FCC624?style=flat-square&logo=linux&logoColor=black) ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white) ![VM Deployment](https://img.shields.io/badge/VM_Deployment-141321?style=flat-square&logo=virtualbox&logoColor=white) |
-| **Low-Level & Core Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/x86%2Fx64_Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![POSIX Shell](https://img.shields.io/badge/POSIX_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Reverse Engineering & Security** | ![Ghidra](https://img.shields.io/badge/Ghidra_SRE-7B1FA2?style=flat-square&logo=openjdk&logoColor=white) ![REA Agents](https://img.shields.io/badge/REA_Agents-141321?style=flat-square&logo=terminal&logoColor=fe428e) ![GDB](https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white) ![Binary Analysis](https://img.shields.io/badge/Binary_Analysis-fe428e?style=flat-square) |
-| **Creative Tech & Web Craft** | ![Blender](https://img.shields.io/badge/Blender_Geometry_Nodes-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Vanilla JS](https://img.shields.io/badge/Vanilla_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Canvas Physics](https://img.shields.io/badge/Canvas_Physics-00D8FF?style=flat-square) |
-| **Developer Workflow & AI** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![AI Engineering](https://img.shields.io/badge/AI_Agent_Engineering-7fd1ff?style=flat-square&logo=openai&logoColor=black) |
+<div align="center">
+  <table align="center">
+    <thead>
+      <tr>
+        <th align="center">Domain</th>
+        <th align="center">Technologies &amp; Tooling</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>Operating Systems &amp; Virtualization</b></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=linux&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux_Console-FCC624?style=flat-square&logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" />
+          <img src="https://img.shields.io/badge/VM_Deployment-141321?style=flat-square&logo=virtualbox&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>Low-Level &amp; Core Languages</b></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/x86%2Fx64_Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/POSIX_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>Reverse Engineering &amp; Security</b></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Ghidra_SRE-7B1FA2?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/REA_Agents-141321?style=flat-square&logo=terminal&logoColor=fe428e" />
+          <img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white" />
+          <img src="https://img.shields.io/badge/Binary_Analysis-fe428e?style=flat-square" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>Creative Tech &amp; Web Craft</b></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Blender_Geometry_Nodes-E87D0D?style=flat-square&logo=blender&logoColor=white" />
+          <img src="https://img.shields.io/badge/Vanilla_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Canvas_Physics-00D8FF?style=flat-square" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><b>Developer Workflow &amp; AI</b></td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+          <img src="https://img.shields.io/badge/AI_Agent_Engineering-7fd1ff?style=flat-square&logo=openai&logoColor=black" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -119,14 +171,7 @@ DeveloperProfile rizky = {
 
 ### 📊 Code & Language Breakdown
 
-<div align="center">
-
-  <!-- Most Used Languages Card (Radical Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkybayuu&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
-  
-  <br/><br/>
-
-  <!-- Stats Card (Radical Theme - filtered) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkybayuu&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=rizkybayuu&show_icons=true&theme=radical&hide_border=false&hide_rank=true&hide=issues,prs,contribs" alt="Rizky's GitHub Stats" />
-
-</div>
+</p>
