@@ -1,7 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38,12&height=180&section=header&text=Rizky%20Bayuu&fontSize=42&fontColor=fe428e&fontAlignY=38&desc=Systems%20Technologist%20%E2%80%A2%20Low-Level%20%26%20RE%20%E2%80%A2%20Creative%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+  <!-- Native Cyber Header Banner (Hosted in Repo) -->
+  <a href="https://rizkybayuu.github.io/">
+    <img src="https://raw.githubusercontent.com/rizkybayuu/rizkybayuu/main/assets/header.svg" width="100%" alt="Rizky Bayuu Header" />
+  </a>
+
+  <br/><br/>
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/rizkybayuu">
@@ -10,13 +14,17 @@
 
   <br/><br/>
 
-  <!-- Profile Badges -->
+  <!-- Profile Badges (High-Reliability Shields) -->
   <p>
     <a href="https://rizkybayuu.github.io/">
       <img src="https://img.shields.io/badge/PORTFOLIO-rizkybayuu.github.io-fe428e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Website" />
     </a>
+    &nbsp;
     <img src="https://img.shields.io/badge/OS-VOID%20LINUX-478061?style=for-the-badge&logo=linux&logoColor=white" alt="Void Linux" />
-    <img src="https://komarev.com/ghpvc/?username=rizkybayuu&color=fe428e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/FOCUS-REVERSE%20ENGINEERING-fe428e?style=for-the-badge" alt="Focus" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/STATUS-BUILDING%20SYSTEMS-2ea44f?style=for-the-badge&logo=github" alt="Status" />
   </p>
 
 </div>
@@ -121,10 +129,4 @@ DeveloperProfile rizky = {
   <!-- Stats Card (Radical Theme - filtered) -->
   <img src="https://github-readme-stats.vercel.app/api?username=rizkybayuu&show_icons=true&theme=radical&hide_border=false&hide_rank=true&hide=issues,prs,contribs" alt="Rizky's GitHub Stats" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38,12&height=90&section=footer" width="100%" alt="Footer" />
 </div>
