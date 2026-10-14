@@ -60,18 +60,28 @@ DeveloperProfile rizky = {
   <table align="center" width="100%">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <h3>🖥️ <a href="https://github.com/rizkybayuu/RizkybyMONITOR">RizkybyMONITOR</a></h3>
-        <p>Real-time system telemetry &amp; resource monitoring suite.<br/>Engineered with low-level <b>C++</b>, Linux <b>Shell</b>, and web UI.</p>
-        <p>
+        <p align="center">
+          <a href="https://github.com/rizkybayuu/RizkybyMONITOR"><b>🖥️ RizkybyMONITOR</b></a>
+        </p>
+        <p align="center">
+          Real-time system telemetry &amp; resource monitoring suite.<br/>
+          Engineered with low-level <b>C++</b>, Linux <b>Shell</b>, and web UI.
+        </p>
+        <p align="center">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
           <img src="https://img.shields.io/badge/POSIX_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
         </p>
       </td>
       <td width="50%" align="center" valign="middle">
-        <h3>🌌 <a href="https://rizkybayuu.github.io/">rizkybayuu.github.io</a></h3>
-        <p>Handcrafted, frameworkless interactive portfolio.<br/>Built with pure <b>Vanilla JS / CSS3</b> and GPU celestial physics.</p>
-        <p>
+        <p align="center">
+          <a href="https://rizkybayuu.github.io/"><b>🌌 rizkybayuu.github.io</b></a>
+        </p>
+        <p align="center">
+          Handcrafted, frameworkless interactive portfolio.<br/>
+          Built with pure <b>Vanilla JS / CSS3</b> and GPU celestial physics.
+        </p>
+        <p align="center">
           <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
           <img src="https://img.shields.io/badge/Zero_Framework-fe428e?style=flat-square" />
