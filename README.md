@@ -75,7 +75,7 @@ DeveloperProfile rizky = {
       </td>
       <td width="50%" align="center" valign="middle">
         <p align="center">
-          <a href="https://rizkybayuu.github.io/"><b>🌌 rizkybayuu.github.io</b></a>
+          <a href="https://github.com/rizkybayuu/rizkybayuu.github.io"><b>🌌 rizkybayuu.github.io</b></a>
         </p>
         <p align="center">
           Handcrafted, frameworkless interactive portfolio.<br/>
