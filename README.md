@@ -1,44 +1,46 @@
 <div align="center">
 
-  <!-- Header SVG -->
-  <a href="https://rizkybayuu.github.io/">
-    <img src="https://raw.githubusercontent.com/rizkybayuu/rizkybayuu/main/assets/header.svg" width="100%" alt="Rizky Bayuu Header" />
-  </a>
+  <img src="https://raw.githubusercontent.com/rizkybayuu/rizkybayuu/main/assets/header.svg" width="100%" alt="Rizky Bayuu" />
 
-  <br/><br/>
+</div>
 
-  <!-- Typing Animation -->
+<br/>
+
+<div align="center">
   <a href="https://github.com/rizkybayuu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=FE428E&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Rizky+Bayuu+%F0%9F%91%8B;Systems+Technologist+%26+Void+Linux+User+%F0%9F%90%A7;Low-Level+Development%3A+C%2C+C%2B%2B+%26+Assembly;Reverse+Engineering+with+Ghidra+%26+REA+%F0%9F%94%8D;Procedural+3D+%26+Zero-Dependency+Web+Craft+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=FE428E&center=true&vCenter=true&width=520&height=40&lines=Systems+Technologist+%7C+Void+Linux;Low-Level+%3A+C+%2F+C%2B%2B+%2F+Assembly;Reverse+Engineering+%E2%80%94+Ghidra+%7C+GDB;Zero-Framework+Web+%E2%80%94+Vanilla+JS+%2F+CSS3" alt="Typing SVG" />
   </a>
+</div>
 
-  <br/><br/>
+<br/>
 
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,blender,js,html,css,vscode&theme=dark" alt="Skill Icons" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,blender,js,html,css,vscode&theme=dark&perline=11" alt="Tech Stack" />
+</div>
 
-  <br/><br/>
+<br/>
 
-  <!-- Connect Badges -->
-  <p>
-    <a href="https://rizkybayuu.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-rizkybayuu.github.io-fe428e?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-lamp__y-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/rizkyby.art/">
-      <img src="https://img.shields.io/badge/Instagram-@rizkyby.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  </p>
+<div align="center">
 
-  <br/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rizkybayuu&show_icons=true&theme=radical&hide_border=true&hide_rank=true&hide=issues,prs,contribs&bg_color=0d1117" alt="Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkybayuu&theme=radical&hide_border=true&langs_count=6&layout=compact&bg_color=0d1117" alt="Languages" />
 
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkybayuu&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkybayuu&show_icons=true&theme=radical&hide_border=false&hide_rank=true&hide=issues,prs,contribs" alt="GitHub Stats" />
+</div>
 
+<br/>
+
+<div align="center">
+  <a href="https://rizkybayuu.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-fe428e?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/-lamp__y-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rizkyby.art">
+    <img src="https://img.shields.io/badge/-@rizkyby.art-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Void%20Linux-478061?style=flat-square&logo=linux&logoColor=white" />
 </div>
