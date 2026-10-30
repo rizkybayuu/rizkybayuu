@@ -21,10 +21,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizkybayuu&theme=radical" height="160" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizkybayuu&theme=radical" height="160" alt="Stats" />
+</div>
 
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rizkybayuu&show_icons=true&theme=radical&hide_border=true&hide_rank=true&hide=issues,prs,contribs&bg_color=0d1117" alt="Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkybayuu&theme=radical&hide_border=true&langs_count=6&layout=compact&bg_color=0d1117" alt="Languages" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rizkybayuu&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
